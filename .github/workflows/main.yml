@@ -1,0 +1,28 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Sync once a day at midnight
+  push:
+    branches:
+      - main  # Sync when the main branch is updated
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch the entire history
+
+      - name: Sync with upstream
+        run: |
+          git remote add upstream https://github.com/JiangZongKang/Awesome-Multimodal-Large-Language-Models.git
+          git fetch upstream
+          git checkout main
+          git rebase upstream/main
+          git push origin main
+        env:
+          UPSTREAM_REPOSITORY: https://github.com/JiangZongKang/Awesome-Multimodal-Large-Language-Models.git
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
