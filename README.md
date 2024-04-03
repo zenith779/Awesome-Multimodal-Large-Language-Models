@@ -1,15 +1,19 @@
 # Awesome-Multimodal-Large-Language-Models
 
-<img src="./images/xmind.png" width="96%" height="96%">
 
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper [a new version will be updated soon]](https://arxiv.org/pdf/2306.13549.pdf)**
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549v2.pdf)**
+<p align="center">
+    <img src="./images/timeline.jpg" width="100%" height="100%">
+</p>
 
-The first survey for Multimodal Large Language Models (MLLMs). :sparkles: 
+<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549v2.pdf)\] (update on April 2, 2024) </div></font>
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:
+<div align='center'> The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
+<div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
+
 
 ---
 
@@ -142,7 +146,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | ![Star](https://img.shields.io/github/stars/csuhan/OneLLM.svg?style=social&label=Star) <br> [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/pdf/2312.03700.pdf) <br> | arXiv | 2023-12-06 | [Github](https://github.com/csuhan/OneLLM) | [Demo](https://huggingface.co/spaces/csuhan/OneLLM) |
 | ![Star](https://img.shields.io/github/stars/Meituan-AutoML/Lenna.svg?style=social&label=Star) <br> [**Lenna: Language Enhanced Reasoning Detection Assistant**](https://arxiv.org/pdf/2312.02433.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/Meituan-AutoML/Lenna) | - | 
 | ![Star](https://img.shields.io/github/stars/RenShuhuai-Andy/TimeChat.svg?style=social&label=Star) <br> [**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**](https://arxiv.org/pdf/2312.02051.pdf) <br> | arXiv | 2023-12-04 | [Github](https://github.com/RenShuhuai-Andy/TimeChat) | Local Demo | 
-| ![Star](https://img.shields.io/github/stars/mu-cai/vip-llava.svg?style=social&label=Star) <br> [**Making Large Multimodal Models Understand Arbitrary Visual Prompts**](https://arxiv.org/pdf/2312.00784.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/mu-cai/vip-llava) | [Demo](https://pages.cs.wisc.edu/~mucai/vip-llava.html) | 
+| ![Star](https://img.shields.io/github/stars/mu-cai/vip-llava.svg?style=social&label=Star) <br> [**Making Large Multimodal Models Understand Arbitrary Visual Prompts**](https://arxiv.org/pdf/2312.00784.pdf) <br> | CVPR | 2023-12-01 | [Github](https://github.com/mu-cai/vip-llava) | [Demo](https://pages.cs.wisc.edu/~mucai/vip-llava.html) | 
 | ![Star](https://img.shields.io/github/stars/vlm-driver/Dolphins.svg?style=social&label=Star) <br> [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/pdf/2312.00438.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/vlm-driver/Dolphins) | - |
 | ![Star](https://img.shields.io/github/stars/Open3DA/LL3DA.svg?style=social&label=Star) <br> [**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**](https://arxiv.org/pdf/2311.18651.pdf) <br> | arXiv | 2023-11-30 | [Github](https://github.com/Open3DA/LL3DA) | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/huangb23/VTimeLLM.svg?style=social&label=Star) <br> [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/pdf/2311.18445.pdf) <br> | arXiv | 2023-11-30 | [Github](https://github.com/huangb23/VTimeLLM/) | Local Demo |
@@ -283,6 +287,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star) <br> [**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**](https://arxiv.org/pdf/2311.00571.pdf) <br> | arXiv | 2023-11-01 | [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) | [Demo](https://6dd3-20-163-117-69.ngrok-free.app/) |
 | [**MM-VID: Advancing Video Understanding with GPT-4V(vision)**](https://arxiv.org/pdf/2310.19773.pdf) | arXiv | 2023-10-30 | - | - |
