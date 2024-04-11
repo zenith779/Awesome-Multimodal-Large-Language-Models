@@ -9,7 +9,8 @@
     <img src="./images/timeline.jpg" width="100%" height="100%">
 </p>
 
-<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549.pdf)\] (update on April 2, 2024) </div></font>
+<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549.pdf)\] (update on April 2, 2024) </div></font>  
+<div align='center'> <b>Chinese version</b> will be updated soon! </div>  
 
 <div align='center'> The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
 <div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
@@ -117,8 +118,10 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**](https://arxiv.org/pdf/2404.06512.pdf) <br> | arXiv | 2024-04-09 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://huggingface.co/spaces/Willow123/InternLM-XComposer) |
 | [**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/pdf/2404.05719.pdf) | arXiv | 2024-04-08 | - | - |
 | ![Star](https://img.shields.io/github/stars/boheumd/MA-LMM.svg?style=social&label=Star) <br> [**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**](https://arxiv.org/pdf/2404.05726.pdf) <br> | CVPR | 2024-04-08 | [Github](https://github.com/boheumd/MA-LMM) | - |
+| [**TOMGPT: Reliable Text-Only Training Approach for Cost-Effective Multi-modal Large Language Model**](https://dl.acm.org/doi/pdf/10.1145/3654674) | ACM TKDD | 2024-03-28 | - | - |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/MiniGemini.svg?style=social&label=Star) <br> [**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://arxiv.org/pdf/2403.18814.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/dvlab-research/MiniGemini) | [Demo](http://103.170.5.190:7860) |
 | [**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**](https://arxiv.org/pdf/2403.09611.pdf) | arXiv | 2024-03-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/MoAI.svg?style=social&label=Star) <br> [**MoAI: Mixture of All Intelligence for Large Language and Vision Models**](https://arxiv.org/pdf/2403.07508.pdf) <br> | arXiv | 2024-03-12 | [Github](https://github.com/ByungKwanLee/MoAI) | Local Demo |
@@ -359,6 +362,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social&label=Star) <br> [**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**](https://arxiv.org/pdf/2312.12436.pdf) <br> | arXiv | 2023-12-19 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | 
 | ![Stars](https://img.shields.io/github/stars/AIFEG/BenchLMM?style=social&label=Star) <br> [**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**](https://arxiv.org/pdf/2312.02896.pdf) <br> | arXiv | 2023-12-05 | [Github](https://github.com/AIFEG/BenchLMM) |
 | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101.pdf) <br> | arXiv | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) |
+| ![Star](https://img.shields.io/github/stars/jonathan-roberts1/charting-new-territories.svg?style=social&label=Star) <br> [**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**](https://arxiv.org/pdf/2311.14656.pdf) <br> | arXiv | 2023-11-24 | [Github](https://github.com/jonathan-roberts1/charting-new-territories) |
 | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/MLLM-Bench?style=social&label=Star) <br> [**MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V**](https://arxiv.org/pdf/2311.13951) <br> | arXiv | 2023-11-23 | [Github](https://github.com/FreedomIntelligence/MLLM-Bench) |
 | [**VLM-Eval: A General Evaluation on Video Large Language Models**](https://arxiv.org/pdf/2311.11865.pdf) | arXiv | 2023-11-20 | [Coming soon]() |
 | ![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star) <br> [**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**](https://arxiv.org/pdf/2311.03287.pdf) <br> | arXiv | 2023-11-06 | [Github](https://github.com/gzcch/Bingo) |
@@ -535,6 +539,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/pdf/2403.13164.pdf) | [Link](https://github.com/ys-zong/VL-ICL) | A benchmark for M-ICL evaluation, covering a wide spectrum of tasks |
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
 | **CoBSAT** | [Can MLLMs Perform Text-to-Image In-Context Learning?](https://arxiv.org/pdf/2402.01293.pdf) | [Link](https://huggingface.co/datasets/yzeng58/CoBSAT) | A benchmark for text-to-image ICL |
 | **VQAv2-IDK** | [Visually Dehallucinative Instruction Generation: Know What You Don't Know](https://arxiv.org/pdf/2402.09717.pdf) | [Link](https://github.com/ncsoft/idk) | A benchmark for assessing "I Know" visual hallucination |
@@ -546,6 +551,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | **ViP-Bench** | [Making Large Multimodal Models Understand Arbitrary Visual Prompts](https://arxiv.org/pdf/2312.00784.pdf) | [Link](https://huggingface.co/datasets/mucai/ViP-Bench) | A benchmark for visual prompts |
 | **M3DBench** | [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | [Link](https://github.com/OpenM3D/M3DBench) | A 3D-centric benchmark |
 | **Video-Bench** | [Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models](https://arxiv.org/pdf/2311.16103.pdf) | [Link](https://github.com/PKU-YuanGroup/Video-Bench) | A benchmark for video-MLLM evaluation |
+| **Charting-New-Territories** | [Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs](https://arxiv.org/pdf/2311.14656.pdf) | [Link](https://github.com/jonathan-roberts1/charting-new-territories) | A benchmark for evaluating geographic and geospatial capabilities |
 | **MLLM-Bench** | [MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V](https://arxiv.org/pdf/2311.13951.pdf) | [Link](https://github.com/FreedomIntelligence/MLLM-Bench) | GPT-4V evaluation with per-sample criteria |
 | **BenchLMM** | [BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models](https://arxiv.org/pdf/2312.02896.pdf) | [Link](https://huggingface.co/datasets/AIFEG/BenchLMM) | A benchmark for assessment of the robustness against different image styles |
 | **MMC-Benchmark** | [MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning](https://arxiv.org/pdf/2311.10774.pdf) | [Link](https://github.com/FuxiaoLiu/MMC) | A comprehensive human-annotated benchmark with distinct tasks evaluating reasoning capabilities over charts |
