@@ -118,6 +118,8 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star) <br> [**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**](https://arxiv.org/pdf/2405.15738) <br> | arXiv | 2024-05-24 | [Github](https://github.com/alibaba/conv-llava) | - |
+| ![Star](https://img.shields.io/github/stars/ByungKwanLee/Meteor.svg?style=social&label=Star) <br> [**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**](https://arxiv.org/pdf/2405.15574) <br> | arXiv | 2024-05-24 | [Github](https://github.com/ByungKwanLee/Meteor) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) <br> [**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**](https://arxiv.org/pdf/2405.05949) <br> | arXiv | 2024-05-09 | [Github](https://github.com/SHI-Labs/CuMo) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**](https://arxiv.org/pdf/2404.16821) <br> | arXiv | 2024-04-25 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
 | ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star) <br> [**Graphic Design with Large Multimodal Model**](https://arxiv.org/pdf/2404.14368) <br> | arXiv | 2024-04-22 | [Github](https://github.com/graphic-design-ai/graphist) | - |
@@ -400,6 +402,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**](https://arxiv.org/pdf/2405.15683) | arXiv | 2024-05-24 | [Coming soon]() | - |
 | [**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**](https://arxiv.org/pdf/2404.14233.pdf) | arXiv | 2024-04-22 | - | - |
 | [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
 | ![Star](https://img.shields.io/github/stars/IVY-LVLM/Counterfactual-Inception.svg?style=social&label=Star) <br> [**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**](https://arxiv.org/pdf/2403.13513.pdf) <br> | arXiv | 2024-03-20 | [Github](https://github.com/IVY-LVLM/Counterfactual-Inception) | - |
