@@ -18,6 +18,23 @@
 
 ---
 
+🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
+<p align="center">
+    <img src="./images/video-mme.jpg" width="100%" height="100%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset-content)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
+
+[2024.06.03] We are very proud to launch Video-MME, the first-ever comprehensive evaluation benchmark of MLLMs in Video Analysis! 🌟  
+
+It applies to both <b>image MLLMs</b>, i.e., generalizing to multiple images, and <b>video MLLMs</b>. Our leaderboard involes SOTA models like Gemini 1.5 Pro, GPT-4o, GPT-4V, LLaVA-NeXT-Video, InternVL-Chat-V1.5, and Qwen-VL-Max. 🌟  
+
+It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>long-term (30min\~60min)</b> videos, ranging from <b>11 seconds to 1 hour</b>. ✨ 
+
+<b>All data are newly collected and annotated by humans, not from any existing video dataset</b>. ✨ 
+
+---
+
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
 
@@ -121,6 +138,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | ![Star](https://img.shields.io/github/stars/gordonhu608/MQT-LLaVA.svg?style=social&label=Star) <br> [**Matryoshka Query Transformer for Large Vision-Language Models**](https://arxiv.org/pdf/2405.19315) <br> | arXiv | 2024-05-29 | [Github](https://github.com/gordonhu608/MQT-LLaVA) | [Demo](https://huggingface.co/spaces/gordonhu/MQT-LLaVA) |
 | ![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star) <br> [**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**](https://arxiv.org/pdf/2405.15738) <br> | arXiv | 2024-05-24 | [Github](https://github.com/alibaba/conv-llava) | - |
 | ![Star](https://img.shields.io/github/stars/ByungKwanLee/Meteor.svg?style=social&label=Star) <br> [**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**](https://arxiv.org/pdf/2405.15574) <br> | arXiv | 2024-05-24 | [Github](https://github.com/ByungKwanLee/Meteor) | [Demo](https://huggingface.co/spaces/BK-Lee/Meteor) | 
+| ![Star](https://img.shields.io/github/stars/YifanXu74/Libra.svg?style=social&label=Star) <br> [**Libra: Building Decoupled Vision System on Large Language Models**](https://arxiv.org/pdf/2405.10140) <br> | ICML | 2024-05-16 | [Github](https://github.com/YifanXu74/Libra) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/CuMo.svg?style=social&label=Star) <br> [**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**](https://arxiv.org/pdf/2405.05949) <br> | arXiv | 2024-05-09 | [Github](https://github.com/SHI-Labs/CuMo) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**](https://arxiv.org/pdf/2404.16821) <br> | arXiv | 2024-04-25 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
 | ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star) <br> [**Graphic Design with Large Multimodal Model**](https://arxiv.org/pdf/2404.14368) <br> | arXiv | 2024-04-22 | [Github](https://github.com/graphic-design-ai/graphist) | - |
