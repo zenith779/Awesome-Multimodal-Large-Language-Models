@@ -75,30 +75,37 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 
 <br> **📑 If you find our projects helpful to your research, please consider citing:** <br>
 ```
+@article{fu2023mme,
+  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
+  journal={arXiv preprint arXiv:2306.13394},
+  year={2023}
+}
+
+@article{fu2024video,
+  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
+  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
+  journal={arXiv preprint arXiv:2405.21075},
+  year={2024}
+}
+
 @article{yin2023survey,
-  title={A Survey on Multimodal Large Language Models},
+  title={A survey on multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
   journal={arXiv preprint arXiv:2306.13549},
   year={2023}
 }
 
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
-  author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and Wu, Yunsheng and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
-}
-
 @article{yin2023woodpecker,
-  title={Woodpecker: Hallucination Correction for Multimodal Large Language Models},
+  title={Woodpecker: Hallucination correction for multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
   journal={arXiv preprint arXiv:2310.16045},
   year={2023}
 }
 
-@article{fu2023gemini,
-  title={A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise},
-  author={Fu, Chaoyou and Zhang, Renrui and Wang, Zihan and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and Shen, Yunhang and Zhang, Mengdan and Chen, Peixian and Zhao, Sirui and Lin, Shaohui and Jiang, Deqiang and Yin, Di and Gao, Peng and Li, Ke and Li, Hongsheng and Sun, Xing},
+@article{fu2023challenger,
+  title={A challenger to gpt-4v? early explorations of gemini in visual expertise},
+  author={Fu, Chaoyou and Zhang, Renrui and Lin, Haojia and Wang, Zihan and Gao, Timin and Luo, Yongdong and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and others},
   journal={arXiv preprint arXiv:2312.12436},
   year={2023}
 }
@@ -134,6 +141,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/yfzhang114/SliME.svg?style=social&label=Star) <br> [**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**](https://arxiv.org/pdf/2406.08487) <br> | arXiv | 2024-06-12 | [Github](https://github.com/yfzhang114/SliME) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
 | [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) | arXiv | 2024-06-04 | [Coming soon]() | - |
 | [**Ovis: Structural Embedding Alignment for Multimodal Large Language Model**](https://arxiv.org/pdf/2405.20797) | arXiv | 2024-05-31 | [Coming soon]() | - |
@@ -279,6 +287,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 | [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
 | ![Star](https://img.shields.io/github/stars/IVY-LVLM/Counterfactual-Inception.svg?style=social&label=Star) <br> [**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**](https://arxiv.org/pdf/2403.13513.pdf) <br> | arXiv | 2024-03-20 | [Github](https://github.com/IVY-LVLM/Counterfactual-Inception) | - |
 | [**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**](https://arxiv.org/pdf/2403.08730.pdf) | arXiv | 2024-03-13 | - | - |
+| ![Star](https://img.shields.io/github/stars/yfzhang114/LLaVA-Align.svg?style=social&label=Star) <br> [**Debiasing Multimodal Large Language Models**](https://arxiv.org/pdf/2403.05262) <br> | arXiv | 2024-03-08 | [Github](https://github.com/yfzhang114/LLaVA-Align) | - |
 | ![Star](https://img.shields.io/github/stars/BillChan226/HALC.svg?style=social&label=Star) <br> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://arxiv.org/pdf/2403.00425.pdf) <br> | arXiv | 2024-03-01 | [Github](https://github.com/BillChan226/HALC) | - |
 | [**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**](https://arxiv.org/pdf/2402.18476.pdf) | arXiv | 2024-02-28 | - | - |
 | ![Star](https://img.shields.io/github/stars/yuezih/less-is-more.svg?style=social&label=Star) <br> [**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**](https://arxiv.org/pdf/2402.14545.pdf) <br> | arXiv | 2024-02-22 | [Github](https://github.com/yuezih/less-is-more) | - |
@@ -513,6 +522,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **VEGA** | [VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models](https://arxiv.org/pdf/2406.10228) | [Link](https://github.com/zhourax/VEGA) | A dataset for enchancing model capabilities in comprehension of interleaved information | 
 | **ALLaVA-4V** | [ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model](https://arxiv.org/pdf/2402.11684.pdf) | [Link](https://huggingface.co/datasets/FreedomIntelligence/ALLaVA-4V) | Vision and language caption and instruction dataset generated by GPT4V | 
 | **IDK** | [Visually Dehallucinative Instruction Generation: Know What You Don't Know](https://arxiv.org/pdf/2402.09717.pdf) | [Link](https://github.com/ncsoft/idk) | Dehallucinative visual instruction for "I Know" hallucination |
 | **CAP2QA** | [Visually Dehallucinative Instruction Generation](https://arxiv.org/pdf/2402.08348.pdf) | [Link](https://github.com/ncsoft/cap2qa) | Image-aligned visual instruction dataset |
