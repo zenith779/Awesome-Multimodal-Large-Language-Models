@@ -141,6 +141,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star) <br> [**Long Context Transfer from Language to Vision**](https://arxiv.org/pdf/2406.16852) <br> | arXiv | 2024-06-24 | [Github](https://github.com/EvolvingLMMs-Lab/LongVA) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/yfzhang114/SliME.svg?style=social&label=Star) <br> [**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**](https://arxiv.org/pdf/2406.08487) <br> | arXiv | 2024-06-12 | [Github](https://github.com/yfzhang114/SliME) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
 | [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) | arXiv | 2024-06-04 | [Coming soon]() | - |
@@ -281,6 +282,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in LVLMs**](https://arxiv.org/pdf/2406.16449) <br> | ICML | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) | - |
 | ![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star) <br> [**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**](https://arxiv.org/pdf/2406.12718) <br> | arXiv | 2024-06-18 | [Github](https://github.com/Lackel/AGLA) | - |
 | [**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**](https://arxiv.org/pdf/2406.01920) | arXiv | 2024-06-04 | [Coming soon]() | - |
 | [**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**](https://arxiv.org/pdf/2405.15683) | arXiv | 2024-05-24 | [Coming soon]() | - |
