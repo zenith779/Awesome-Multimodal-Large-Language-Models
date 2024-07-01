@@ -5,21 +5,17 @@
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
-<p align="center">
-    <img src="./images/timeline.jpg" width="100%" height="100%">
-</p>
 
-<font size=7><div align='center' > :apple: \[[Read our new version](https://arxiv.org/pdf/2306.13549.pdf)\] (update on April 2, 2024) </div></font>  
+The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
 
-<div align='center'> The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
-<div align='center'> Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
+Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
 
 
 ---
 
 🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 <p align="center">
-    <img src="./images/video-mme.jpg" width="100%" height="100%">
+    <img src="./images/videomme.jpg" width="100%" height="100%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
@@ -35,7 +31,7 @@ It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>lo
 ---
 
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
-**[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)**
+**[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
 The first comprehensive evaluation benchmark for MLLMs. Now the leaderboards include **50+** advanced models, such as Qwen-VL-Max, Gemini Pro, and GPT-4V. :sparkles:
 
@@ -142,6 +138,7 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/lxtGH/OMG-Seg.svg?style=social&label=Star) <br> [**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**](https://arxiv.org/pdf/2406.19389) <br> | arXiv | 2024-06-27 | [Github](https://github.com/lxtGH/OMG-Seg) | Local Demo |
+| ![Star](https://img.shields.io/github/stars/cambrian-mllm/cambrian.svg?style=social&label=Star) <br> [**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**](https://arxiv.org/pdf/2406.16860) <br> | arXiv | 2024-06-24 | [Github](https://github.com/cambrian-mllm/cambrian) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star) <br> [**Long Context Transfer from Language to Vision**](https://arxiv.org/pdf/2406.16852) <br> | arXiv | 2024-06-24 | [Github](https://github.com/EvolvingLMMs-Lab/LongVA) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/yfzhang114/SliME.svg?style=social&label=Star) <br> [**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**](https://arxiv.org/pdf/2406.08487) <br> | arXiv | 2024-06-12 | [Github](https://github.com/yfzhang114/SliME) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
