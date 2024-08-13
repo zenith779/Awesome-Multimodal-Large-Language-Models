@@ -13,9 +13,27 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 ---
 
+
+🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+<p align="center">
+    <img src="./images/vita.png" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌼 GitHub](https://github.com/VITA-MLLM/VITA)]  </div></font>
+
+[2024.08.12] We are announcing VITA, the first-ever open-source Multimodal LLM that can process Video, Image, Text, and Audio, and meanwhile has an advanced multimodal interactive experience. 🌟  
+
+<b>Omni Multimodal Understanding</b>. VITA demonstrates robust foundational capabilities of multilingual, vision, and audio understanding, as evidenced by its strong performance across a range of both unimodal and multimodal benchmarks. ✨ 
+
+<b>Non-awakening Interaction</b>. VITA can be activated and respond to user audio questions in the environment without the need for a wake-up word or button. ✨ 
+
+<b>Audio Interrupt Interaction</b>. VITA is able to simultaneously track and filter external queries in real-time. This allows users to interrupt the model's generation at any time with new questions, and VITA will respond to the new query accordingly. ✨ 
+
+---
+
 🔥🔥🔥 **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 <p align="center">
-    <img src="./images/videomme.jpg" width="100%" height="100%">
+    <img src="./images/videomme.jpg" width="80%" height="80%">
 </p>
 
 <font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)][[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
@@ -53,19 +71,6 @@ How to use: (only for non-commercial use)
 
 </details>
 
----
-
-🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045.pdf)** | **[Source Code![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)**
-
-The first work to correct hallucinations in MLLMs. :sparkles:
-
----
-
-🔥🔥🔥 **A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**  
-**[Paper](https://arxiv.org/pdf/2312.12436.pdf)**
-
-The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages</b>. Completed within one week of the Gemini API opening. :star2:
 
 ---
 
@@ -76,6 +81,13 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
   author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
   journal={arXiv preprint arXiv:2306.13394},
   year={2023}
+}
+
+@article{fu2024vita,
+  title={VITA: Towards Open-Source Interactive Omni Multimodal LLM},
+  author={Fu, Chaoyou and Lin, Haojia and Long, Zuwei and Shen, Yunhang and Zhao, Meng and Zhang, Yifan and Wang, Xiong and Yin, Di and Ma, Long and Zheng, Xiawu and He, Ran and Ji, Rongrong and Wu, Yunsheng and Shan, Caifeng and Sun, Xing},
+  journal={arXiv preprint arXiv:2408.05211},
+  year={2024}
 }
 
 @article{fu2024video,
@@ -92,19 +104,6 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
   year={2023}
 }
 
-@article{yin2023woodpecker,
-  title={Woodpecker: Hallucination correction for multimodal large language models},
-  author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Xu, Tong and Wang, Hao and Sui, Dianbo and Shen, Yunhang and Li, Ke and Sun, Xing and Chen, Enhong},
-  journal={arXiv preprint arXiv:2310.16045},
-  year={2023}
-}
-
-@article{fu2023challenger,
-  title={A challenger to gpt-4v? early explorations of gemini in visual expertise},
-  author={Fu, Chaoyou and Zhang, Renrui and Lin, Haojia and Wang, Zihan and Gao, Timin and Luo, Yongdong and Huang, Yubo and Zhang, Zhengye and Qiu, Longtian and Ye, Gaoxiang and others},
-  journal={arXiv preprint arXiv:2312.12436},
-  year={2023}
-}
 ```
 
  
@@ -137,9 +136,10 @@ The first technical report for <b>Gemini vs GPT-4V</b>. A total of <b>128 pages<
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA: Towards Open-Source Interactive Omni Multimodal LLM**](https://arxiv.org/pdf/2408.05211) <br> | arXiv | 2024-08-09 | [Github](https://github.com/VITA-MLLM/VITA) | - | 
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star) <br> [**LLaVA-OneVision: Easy Visual Task Transfer**](https://arxiv.org/pdf/2408.03326) <br> | arXiv | 2024-08-06 | [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) | [Demo](https://llava-onevision.lmms-lab.com) | 
 | ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star) <br> [**MiniCPM-V: A GPT-4V Level MLLM on Your Phone**](https://arxiv.org/pdf/2408.01800) <br> | arXiv | 2024-08-03 | [Github](https://github.com/OpenBMB/MiniCPM-V) | [Demo](https://huggingface.co/spaces/openbmb/MiniCPM-Llama3-V-2_5) |
-| [**VILA^2: VILA Augmented VILA**](https://arxiv.org/pdf/2407.17453) | arXiv | 2024-07-24 | - |
+| [**VILA^2: VILA Augmented VILA**](https://arxiv.org/pdf/2407.17453) | arXiv | 2024-07-24 | - | - |
 | [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/pdf/2407.15841) | arXiv | 2024-07-22 | - | - |
 | [**EVLM: An Efficient Vision-Language Model for Visual Understanding**](https://arxiv.org/pdf/2407.14177) | arXiv | 2024-07-19 | - | - |
 | ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) <br> [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**](https://arxiv.org/pdf/2407.03320) <br> | arXiv | 2024-07-03 | [Github](https://github.com/InternLM/InternLM-XComposer) | [Demo](https://openxlab.org.cn/apps/detail/WillowBreeze/InternLM-XComposer) |
