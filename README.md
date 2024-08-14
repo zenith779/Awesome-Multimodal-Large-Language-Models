@@ -6,7 +6,7 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
 
-The first survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
+The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
 
 Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
 
@@ -51,7 +51,7 @@ It includes both <b>short- (< 2min)</b>, <b>medium- (4min\~15min)</b>, and <b>lo
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Project Page [Leaderboards]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)** | **[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
-The first comprehensive evaluation benchmark for MLLMs. Now the leaderboards include **50+** advanced models, such as Qwen-VL-Max, Gemini Pro, and GPT-4V. :sparkles:
+A comprehensive evaluation benchmark for MLLMs. Now the leaderboards include **50+** advanced models, such as Qwen-VL-Max, Gemini Pro, and GPT-4V. :sparkles:
 
 If you want to add your model in our leaderboards, please feel free to email bradyfu24@gmail.com. We will update the leaderboards in time. :sparkles:
 
@@ -136,6 +136,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star) <br> [**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**](https://www.arxiv.org/pdf/2408.04840) <br> | arXiv | 2024-08-09 | [Github](https://github.com/X-PLUG/mPLUG-Owl) | - |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA: Towards Open-Source Interactive Omni Multimodal LLM**](https://arxiv.org/pdf/2408.05211) <br> | arXiv | 2024-08-09 | [Github](https://github.com/VITA-MLLM/VITA) | - | 
 | ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star) <br> [**LLaVA-OneVision: Easy Visual Task Transfer**](https://arxiv.org/pdf/2408.03326) <br> | arXiv | 2024-08-06 | [Github](https://github.com/LLaVA-VL/LLaVA-NeXT) | [Demo](https://llava-onevision.lmms-lab.com) | 
 | ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star) <br> [**MiniCPM-V: A GPT-4V Level MLLM on Your Phone**](https://arxiv.org/pdf/2408.01800) <br> | arXiv | 2024-08-03 | [Github](https://github.com/OpenBMB/MiniCPM-V) | [Demo](https://huggingface.co/spaces/openbmb/MiniCPM-Llama3-V-2_5) |
@@ -288,7 +289,7 @@ How to use: (only for non-commercial use)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**](https://arxiv.org/pdf/2408.00555) | arXiv | 2024-08-01 | - | - |
-| [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) | ECCV | 2024-07-31 | [Coming soon]() | - |
+| ![Star](https://img.shields.io/github/stars/LALBJ/PAI.svg?style=social&label=Star) <br> [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) <br> | ECCV | 2024-07-31 | [Github](https://github.com/LALBJ/PAI) | - |
 | ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in LVLMs**](https://arxiv.org/pdf/2406.16449) <br> | ICML | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) | - |
 | ![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star) <br> [**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**](https://arxiv.org/pdf/2406.12718) <br> | arXiv | 2024-06-18 | [Github](https://github.com/Lackel/AGLA) | - |
 | [**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**](https://arxiv.org/pdf/2406.01920) | arXiv | 2024-06-04 | [Coming soon]() | - |
@@ -596,6 +597,7 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **CharXiv** | [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/pdf/2406.18521) | [Link](https://huggingface.co/datasets/princeton-nlp/CharXiv) | Chart understanding benchmark curated by human experts |
 | **Video-MME** | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/pdf/2405.21075) | [Link](https://github.com/BradyFU/Video-MME) | A comprehensive evaluation benchmark of Multi-modal LLMs in video analysis |
 | **VL-ICL Bench** | [VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning](https://arxiv.org/pdf/2403.13164.pdf) | [Link](https://github.com/ys-zong/VL-ICL) | A benchmark for M-ICL evaluation, covering a wide spectrum of tasks |
 | **TempCompass** | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf) | [Link](https://github.com/llyx97/TempCompass) | A benchmark to evaluate the temporal perception ability of Video LLMs |
