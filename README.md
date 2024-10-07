@@ -19,7 +19,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
     <img src="./images/vita.png" width="80%" height="80%">
 </p>
 
-<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_3.jpg)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_4.jpg)]  </div></font>
 
 🔥🔥🔥 [2024.09.06] The training code, deployment code, and model weights **have been released**. Long wait! 
 
@@ -138,6 +138,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**](https://arxiv.org/pdf/2409.17146) | arXiv | 2024-09-25 | [Huggingface](https://huggingface.co/allenai/MolmoE-1B-0924) | [Demo](https://molmo.allenai.org) |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) <br> | arXiv | 2024-09-18 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2-VL) |
 | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA.svg?style=social&label=Star) <br> [**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**](https://arxiv.org/pdf/2409.02889) <br> | arXiv | 2024-09-04 | [Github](https://github.com/FreedomIntelligence/LongLLaVA) | - | 
 | ![Star](https://img.shields.io/github/stars/NVlabs/Eagle.svg?style=social&label=Star) <br> [**EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**](https://arxiv.org/pdf/2408.15998) <br> | arXiv | 2024-08-28 | [Github](https://github.com/NVlabs/Eagle) | [Demo](https://huggingface.co/spaces/NVEagle/Eagle-X5-13B-Chat) |
@@ -293,6 +294,7 @@ How to use: (only for non-commercial use)
 ## Multimodal Hallucination
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/nickjiang2378/vl-interp.svg?style=social&label=Star) <br> [**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**](https://arxiv.org/pdf/2410.02762) <br> | arXiv | 2024-10-03 | [Github](https://github.com/nickjiang2378/vl-interp/) | - |
 | [**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**](https://arxiv.org/pdf/2409.13612) | arXiv | 2024-09-20 | [Link](https://anonymous.4open.science/r/FIHA-45BB) | - | 
 | [**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**](https://arxiv.org/pdf/2408.00555) | arXiv | 2024-08-01 | - | - |
 | ![Star](https://img.shields.io/github/stars/LALBJ/PAI.svg?style=social&label=Star) <br> [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) <br> | ECCV | 2024-07-31 | [Github](https://github.com/LALBJ/PAI) | - |
