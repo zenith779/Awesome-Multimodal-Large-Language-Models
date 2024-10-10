@@ -154,6 +154,7 @@ How to use: (only for non-commercial use)
 | ![Star](https://img.shields.io/github/stars/cambrian-mllm/cambrian.svg?style=social&label=Star) <br> [**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**](https://arxiv.org/pdf/2406.16860) <br> | arXiv | 2024-06-24 | [Github](https://github.com/cambrian-mllm/cambrian) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA.svg?style=social&label=Star) <br> [**Long Context Transfer from Language to Vision**](https://arxiv.org/pdf/2406.16852) <br> | arXiv | 2024-06-24 | [Github](https://github.com/EvolvingLMMs-Lab/LongVA) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/baaivision/EVE.svg?style=social&label=Star) <br> [**Unveiling Encoder-Free Vision-Language Models**](https://arxiv.org/pdf/2406.11832) <br> | arXiv | 2024-06-17 | [Github](https://github.com/baaivision/EVE) | Local Demo |
+| ![Star](https://img.shields.io/github/stars/wentaoyuan/RoboPoint.svg?style=social&label=Star) <br> [**RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**](https://arxiv.org/pdf/2406.10721) <br> | CoRL | 2024-06-15 | [Github](https://github.com/wentaoyuan/RoboPoint) | [Demo](https://007e03d34429a2517b.gradio.live/) | 
 | ![Star](https://img.shields.io/github/stars/yfzhang114/SliME.svg?style=social&label=Star) <br> [**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**](https://arxiv.org/pdf/2406.08487) <br> | arXiv | 2024-06-12 | [Github](https://github.com/yfzhang114/SliME) | - |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star) <br> [**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/pdf/2406.07476) <br> | arXiv | 2024-06-11 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/AIDC-AI/Parrot.svg?style=social&label=Star) <br> [**Parrot: Multilingual Visual Instruction Tuning**](https://arxiv.org/pdf/2406.02539) <br> | arXiv | 2024-06-04 | [Github](https://github.com/AIDC-AI/Parrot) | - |
@@ -427,6 +428,7 @@ How to use: (only for non-commercial use)
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Llama 3.2: Revolutionizing edge AI and vision with open, customizable models**](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) | Meta | 2024-09-25 | - | [Demo](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | 
 | [**Pixtral-12B**](https://mistral.ai/news/pixtral-12b/) | Mistral | 2024-09-17 | - | - |
 | ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star) <br> [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) <br> | arXiv | 2024-08-16 | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
 | [**The Llama 3 Herd of Models**](https://arxiv.org/pdf/2407.21783) | arXiv | 2024-07-31 | - | - |
@@ -458,6 +460,7 @@ How to use: (only for non-commercial use)
 ## Evaluation
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| ![Stars](https://img.shields.io/github/stars/multimodal-art-projection/OmniBench?style=social&label=Star) <br> [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | arXiv | 2024-09-23 | [Github](https://github.com/multimodal-art-projection/OmniBench) | 
 | ![Stars](https://img.shields.io/github/stars/yfzhang114/MME-RealWorld?style=social&label=Star) <br> [**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**](https://arxiv.org/pdf/2408.13257) <br> | arXiv | 2024-08-23 | [Github](https://github.com/yfzhang114/MME-RealWorld) | 
 | ![Stars](https://img.shields.io/github/stars/guoyang9/UNK-VQA?style=social&label=Star) <br> [**UNK-VQA: A Dataset and a Probe into the Abstention Ability of Multi-modal Large Models**](https://arxiv.org/pdf/2310.10942) <br> | TPAMI | 2023-10-17 | [Github](https://github.com/guoyang9/UNK-VQA) |
 | ![Stars](https://img.shields.io/github/stars/chenllliang/MMEvalPro?style=social&label=Star) <br> [**MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation**](https://arxiv.org/pdf/2407.00468) <br> | arXiv | 2024-06-29 | [Github](https://github.com/chenllliang/MMEvalPro) |
@@ -612,6 +615,7 @@ How to use: (only for non-commercial use)
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **OmniBench** | [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/pdf/2409.15272) | [Link](https://huggingface.co/datasets/m-a-p/OmniBench) | A benchmark that evaluates models' capabilities of processing visual, acoustic, and textual inputs simultaneously |
 | **MME-RealWorld** | [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](https://arxiv.org/pdf/2408.13257) | [Link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld) | A challenging benchmark that involves real-life scenarios |
 | **CharXiv** | [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/pdf/2406.18521) | [Link](https://huggingface.co/datasets/princeton-nlp/CharXiv) | Chart understanding benchmark curated by human experts |
 | **Video-MME** | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/pdf/2405.21075) | [Link](https://github.com/BradyFU/Video-MME) | A comprehensive evaluation benchmark of Multi-modal LLMs in video analysis |
