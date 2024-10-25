@@ -19,7 +19,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
     <img src="./images/vita.png" width="80%" height="80%">
 </p>
 
-<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_4.jpg)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_5.jpg)]  </div></font>
 
 🔥🔥🔥 [2024.09.06] The training code, deployment code, and model weights **have been released**. Long wait! 
 
@@ -151,6 +151,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social&label=Star) <br> [**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**](https://arxiv.org/pdf/2410.17434) <br> | arXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Demo](https://huggingface.co/spaces/Vision-CAIR/LongVU) |
 | [**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**](https://arxiv.org/pdf/2409.17146) | arXiv | 2024-09-25 | [Huggingface](https://huggingface.co/allenai/MolmoE-1B-0924) | [Demo](https://molmo.allenai.org) |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) <br> | arXiv | 2024-09-18 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2-VL) |
 | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA.svg?style=social&label=Star) <br> [**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**](https://arxiv.org/pdf/2409.02889) <br> | arXiv | 2024-09-04 | [Github](https://github.com/FreedomIntelligence/LongLLaVA) | - | 
