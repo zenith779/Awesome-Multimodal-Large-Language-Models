@@ -13,6 +13,17 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 ---
 
+🔥🔥🔥 **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  
+<p align="center">
+    <img src="./images/mme-survey.jpg" width="90%" height="90%">
+</p>
+
+<font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
+
+<font size=7><div align='center' > Jointly introduced by **MME**, **MMBench**, and **LLaVA** teams. ✨ </div></font>
+
+---
+
 🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
 <p align="center">
     <img src="./images/freeze-omni.png" width="80%" height="80%">
