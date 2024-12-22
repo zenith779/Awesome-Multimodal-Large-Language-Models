@@ -6,10 +6,24 @@
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
 
-The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles: </div>  
+The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
+Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:  
 
+---
+
+🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+<p align="center">
+    <img src="./images/vita-1.5.jpg" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
+
+<font size=7><div align='center' > [[📖 VITA-1.5 Paper (Comming Soon)](https://github.com/VITA-MLLM/VITA)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat.jpg)]</div></font>  
+
+<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
+
+<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>
 
 ---
 
@@ -21,29 +35,6 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 <font size=7><div align='center' > [[🍎 Project Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)] [[📖 arXiv Paper](https://arxiv.org/pdf/2411.15296)] </div></font>
 
 <font size=7><div align='center' > Jointly introduced by **MME**, **MMBench**, and **LLaVA** teams. ✨ </div></font>
-
----
-
-🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
-<p align="center">
-    <img src="./images/freeze-omni.png" width="80%" height="80%">
-</p>
-
-<font size=7><div align='center' > [[🍎 Project Page](https://freeze-omni.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2411.00774)] [[🌟 GitHub](https://github.com/VITA-MLLM/Freeze-Omni)] </div></font>
-
-The VITA team proposes Freeze-Omni, a speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. 🌟 
-
-Freeze-Omni exhibits the characteristic of being **smart** as it is constructed upon a **frozen** text-modality LLM. This enables it to keep the original intelligence of the LLM backbone, without being affected by the forgetting problem induced by the fine-tuning process for integration of the speech modality. ✨ 
-
-
----
-
-🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
-<p align="center">
-    <img src="./images/vita.png" width="70%" height="70%">
-</p>
-
-<font size=7><div align='center' > [[🍎 Project Page](https://vita-home.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2408.05211)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat_5.jpg)]  </div></font>
 
 ---
 
@@ -59,17 +50,21 @@ It includes short- (< 2min), medium- (4min\~15min), and long-term (30min\~60min)
 🔥🔥🔥 **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2306.13394.pdf)** | **[Download](https://huggingface.co/datasets/darkyarding/MME/blob/main/MME_Benchmark_release_version.zip)** | **[Eval Tool](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/blob/Evaluation/tools/eval_tool.zip)** | :black_nib: **[Citation](./images/bib_mme.txt)**
 
-A representative evaluation benchmark for MLLMs. :sparkles:
+A representative evaluation benchmark for MLLMs. :sparkles:  
 
 ---
 
 🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
 **[Paper](https://arxiv.org/pdf/2310.16045)** | **[GitHub](https://github.com/BradyFU/Woodpecker)**
 
-This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
+This is the first work to correct hallucination in multimodal large language models. :sparkles:  
 
+---
 
+🔥🔥🔥 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM**  
+**[Project Page](https://freeze-omni.github.io/)** | **[Paper](https://arxiv.org/abs/2411.00774)** | **[GitHub](https://github.com/VITA-MLLM/Freeze-Omni)**  
 
+A speech-to-speech dialogue model with both low-latency and high intelligence while the training process is based on a frozen LLM. :sparkles:  
 
 ---
 
