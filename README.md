@@ -19,7 +19,7 @@ Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2
 
 <font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
 
-<font size=7><div align='center' > [[📖 VITA-1.5 Paper (Comming Soon)](https://github.com/VITA-MLLM/VITA)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat.jpg)]</div></font>  
+<font size=7><div align='center' > [[📖 VITA-1.5 Paper](https://arxiv.org/pdf/2501.01957)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤗 Hugging Face](https://huggingface.co/VITA-MLLM)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)]</div></font>  
 
 <font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
 
@@ -94,6 +94,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**](https://arxiv.org/pdf/2501.01957) <br> | arXiv | 2025-01-03 | [Github](https://github.com/VITA-MLLM/VITA) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star) <br> [**QVQ: To See the World with Wisdom**](https://qwenlm.github.io/blog/qvq-72b-preview/) <br> | Qwen | 2024-12-25 | [Github](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://qwenlm.github.io/blog/qvq-72b-preview/) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2.svg?style=social&label=Star) <br> [**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**](https://arxiv.org/pdf/2412.10302) <br> | arXiv | 2024-12-13 | [Github](https://github.com/deepseek-ai/DeepSeek-VL2) | - |
 | [**Apollo: An Exploration of Video Understanding in Large Multimodal Models**](https://arxiv.org/pdf/2412.10360) | arXiv | 2024-12-13 | - | - |
@@ -103,6 +104,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 | ![Star](https://img.shields.io/github/stars/gls0425/LinVT.svg?style=social&label=Star) <br> [**LinVT: Empower Your Image-level Large Language Model to Understand Videos**](https://arxiv.org/pdf/2412.05185) <br> | arXiv | 2024-12-06 | [Github](https://github.com/gls0425/LinVT) | - |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://arxiv.org/pdf/2412.05271) <br> | arXiv | 2024-12-06 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://internvl.opengvlab.com) |
 | ![Star](https://img.shields.io/github/stars/NVlabs/VILA.svg?style=social&label=Star) <br> [**NVILA: Efficient Frontier Visual Language Models**](https://arxiv.org/pdf/2412.04468) <br> | arXiv | 2024-12-05 | [Github](https://github.com/NVlabs/VILA) | [Demo](https://vila.mit.edu) |
+| ![Star](https://img.shields.io/github/stars/inst-it/inst-it.svg?style=social&label=Star) <br> [**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**](https://arxiv.org/pdf/2412.03565) <br> | arXiv | 2024-12-04 | [Github](https://github.com/inst-it/inst-it) | - |
 | ![Star](https://img.shields.io/github/stars/xjtupanda/T2Vid.svg?style=social&label=Star) <br> [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**](https://arxiv.org/pdf/2411.19951) <br> | arXiv | 2024-11-29 | [Github](https://github.com/xjtupanda/T2Vid) | - |
 | ![Star](https://img.shields.io/github/stars/TimeMarker-LLM/TimeMarker.svg?style=social&label=Star) <br> [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](https://arxiv.org/pdf/2411.18211) <br> | arXiv | 2024-11-27 | [Github](https://github.com/TimeMarker-LLM/TimeMarker/) | - |
 | ![Star](https://img.shields.io/github/stars/IDEA-Research/ChatRex.svg?style=social&label=Star) <br> [**ChatRex: Taming Multimodal LLM for Joint Perception and Understanding**](https://arxiv.org/pdf/2411.18363) <br> | arXiv | 2024-11-27 | [Github](https://github.com/IDEA-Research/ChatRex) | Local Demo | 
@@ -552,6 +554,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Datasets of Multimodal Instruction Tuning
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Inst-IT Dataset** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | An instruction-tuning dataset which contains fine-grained multi-level annotations for 21k videos and 51k images |
 | **E.T. Instruct 164K** | [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](https://arxiv.org/pdf/2409.18111) | [Link](https://github.com/PolyU-ChenLab/ETBench) | An instruction-tuning dataset for time-sensitive video understanding |
 | **MSQA** | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/pdf/2409.02389) | [Link](https://msr3d.github.io/) | A large scale dataset for multi-modal situated reasoning in 3D scenes |
 | **MM-Evol** | [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](https://arxiv.org/pdf/2409.05840) | [Link](https://mmevol.github.io/home_page.html) | An instruction dataset with rich diversity | 
@@ -615,6 +618,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
 | **MiCEval** | [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps](https://arxiv.org/pdf/2410.14668) | [Link](https://github.com/alenai97/MiCEval) | A multimodal CoT benchmark to evaluate MLLMs' reasoning capabilities |
