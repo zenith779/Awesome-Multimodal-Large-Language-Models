@@ -4,7 +4,5 @@
   journal={National Science Review},
   volume={11},
   number={12},
-  pages={nwae403},
-  year={2024},
-  publisher={Oxford University Press}
+  year={2024}
 }
