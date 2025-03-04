@@ -4,11 +4,11 @@
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)**
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat Group (微信群)](./images/wechat-group.png)**
 
 The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
 
-Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2:  
+Welcome to add WeChat ID (zyzhang-ustc) to join our MLLM communication group! :star2:  
 
 ---
 
@@ -522,6 +522,7 @@ A speech-to-speech dialogue model with both low-latency and high intelligence wh
 ## Multimodal RLHF
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF.svg?style=social&label=Star) <br> [**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**](https://arxiv.org/pdf/2502.10391) <br> | arXiv | 2025-02-14 | [Github](https://github.com/Kwai-YuanQi/MM-RLHF) | - |
 | [**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**](https://arxiv.org/pdf/2410.06682) | arXiv | 2024-10-09 | - | - |
 | ![Star](https://img.shields.io/github/stars/vlf-silkie/VLFeedback.svg?style=social&label=Star) <br> [**Silkie: Preference Distillation for Large Visual Language Models**](https://arxiv.org/pdf/2312.10665.pdf) <br> | arXiv | 2023-12-17 | [Github](https://github.com/vlf-silkie/VLFeedback) | - |
 | ![Star](https://img.shields.io/github/stars/RLHF-V/RLHF-V.svg?style=social&label=Star) <br> [**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**](https://arxiv.org/pdf/2312.00849.pdf) <br> | arXiv | 2023-12-01 | [Github](https://github.com/RLHF-V/RLHF-V) | [Demo](http://120.92.209.146:8081/) |
