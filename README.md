@@ -10,7 +10,7 @@
 
 - 🌟 **A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges**  
 <p align="center">
-    <img src="./images/survey-unified.png" width="100%" height="100%">
+    <img src="./images/unify-survey.png" width="90%" height="90%">
 </p>  
 
 <font size=7><div align='center'> A total of **83 pages**, and **750+ references**! </div></font>
@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Introducing Mistral 3**](https://mistral.ai/news/mistral-3) | Blog | 2025-12-02 | [Huggingface](https://huggingface.co/collections/mistralai/mistral-large-3) | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL Technical Report**](https://arxiv.org/pdf/2511.21631) <br> | arXiv | 2025-11-26 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu3.5.svg?style=social&label=Star) <br> [**Emu3.5: Native Multimodal Models are World Learners**](https://arxiv.org/pdf/2510.26583) <br> | arXiv | 2025-10-30 | [Github](https://github.com/baaivision/Emu3.5) | - | 
 | ![Star](https://img.shields.io/github/stars/Tencent/VITA.svg?style=social&label=Star) <br> [**VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting**](https://arxiv.org/pdf/2510.21817.pdf) <br> | arXiv | 2025-10-21 | [Github](https://github.com/Tencent/VITA/tree/VITA-E) | Local Demo |
@@ -109,7 +110,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 | ![Star](https://img.shields.io/github/stars/SenseTime-FVG/InteractiveOmni.svg?style=social&label=Star) <br> [**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**](https://arxiv.org/pdf/2510.13747) | arXiv | 2025-10-15 | [Github](https://github.com/SenseTime-FVG/InteractiveOmni) | - |
 | ![Star](https://img.shields.io/github/stars/Tencent/VITA.svg?style=social&label=Star) <br> [**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**](https://arxiv.org/pdf/2510.09607) <br> | arXiv | 2025-10-10 | [Github](https://github.com/Tencent/VITA/tree/VITA-VLA) | - |
 | ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-1.5.svg?style=social&label=Star) <br> [**LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training**](https://arxiv.org/pdf/2509.23661) <br> | arXiv | 2025-10-09 | [Github](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) | [Demo](https://huggingface.co/spaces/lmms-lab/LLaVA-OneVision-1.5) |
-| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action**](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list) <br> | blog | 2025-09-23 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
+| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star) <br> [**Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action**](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list) <br> | Blog | 2025-09-23 | [Github](https://github.com/QwenLM/Qwen3-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-VL-Demo) |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-Omni.svg?style=social&label=Star) <br> [**Qwen3-Omni Technical Report**](https://arxiv.org/pdf/2509.17765) <br> | arXiv | 2025-09-22 | [Github](https://github.com/QwenLM/Qwen3-Omni) | [Demo](https://huggingface.co/spaces/Qwen/Qwen3-Omni-Demo) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency**](https://arxiv.org/pdf/2508.18265) <br> | arXiv | 2025-08-27 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://chat.intern-ai.org.cn/) |
 | **MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone** | - | 2025-08-26 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](http://101.126.42.235:30910/) |
@@ -490,7 +491,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 | [**The Claude 3 Model Family: Opus, Sonnet, Haiku**](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) | Anthropic | 2024-03-04 | - | - |
 | [**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) | Google | 2024-02-15 | - | - |
 | [**Gemini: A Family of Highly Capable Multimodal Models**](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) | Google | 2023-12-06 | - | - |
-| [**Fuyu-8B: A Multimodal Architecture for AI Agents**](https://www.adept.ai/blog/fuyu-8b) | blog | 2023-10-17 | [Huggingface](https://huggingface.co/adept/fuyu-8b) | [Demo](https://huggingface.co/adept/fuyu-8b) 
+| [**Fuyu-8B: A Multimodal Architecture for AI Agents**](https://www.adept.ai/blog/fuyu-8b) | Blog | 2023-10-17 | [Huggingface](https://huggingface.co/adept/fuyu-8b) | [Demo](https://huggingface.co/adept/fuyu-8b) 
 | ![Star](https://img.shields.io/github/stars/mshukor/UnIVAL.svg?style=social&label=Star) <br> [**Unified Model for Image, Video, Audio and Language Tasks**](https://arxiv.org/pdf/2307.16184.pdf) <br> | arXiv | 2023-07-30 | [Github](https://github.com/mshukor/UnIVAL) | [Demo](https://huggingface.co/spaces/mshukor/UnIVAL) |
 | [**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**](https://arxiv.org/pdf/2310.09199.pdf) | arXiv | 2023-10-13 | - | - |
 | [**GPT-4V(ision) System Card**](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | OpenAI | 2023-09-25 | - | - |
