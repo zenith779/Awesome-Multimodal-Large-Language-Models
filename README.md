@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) <br> [**MiniCPM-o 4.5**](https://huggingface.co/openbmb/MiniCPM-o-4_5) <br> | Blog | 2026-02-06 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](https://minicpm-omni.openbmb.cn/) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR-2.svg?style=social&label=Star) <br> [**DeepSeek-OCR 2: Visual Causal Flow**](https://github.com/deepseek-ai/DeepSeek-OCR-2/blob/main/DeepSeek_OCR2_paper.pdf) <br> | DeepSeek | 2026-01-27 | [Github](https://github.com/deepseek-ai/DeepSeek-OCR-2) | - |
 | [**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf) | Bytedance Seed | 2025-12-18 | - | - |
 | [**Introducing GPT-5.2**](https://openai.com/index/introducing-gpt-5-2/) | OpenAI | 2025-12-11 | - | - |
