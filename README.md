@@ -100,6 +100,7 @@ ICLR 2025, [Paper](https://arxiv.org/pdf/2408.13257.pdf), [Project](https://mme-
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Gemini 3.1 Pro: A smarter model for your most complex tasks**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) | Blog | 2026-02-19 | - | - |
 | ![Star](https://img.shields.io/github/stars/QwenLM/Qwen3.5.svg?style=social&label=Star) <br> [**Qwen3.5: Towards Native Multimodal Agents**](https://qwen.ai/blog?id=qwen3.5) <br> | Blog | 2026-02-16 | [Github](https://github.com/QwenLM/Qwen3.5) | [Demo](https://chat.qwen.ai/) |
 | ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) <br> [**MiniCPM-o 4.5**](https://huggingface.co/openbmb/MiniCPM-o-4_5) <br> | Blog | 2026-02-06 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](https://minicpm-omni.openbmb.cn/) |
 | ![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR-2.svg?style=social&label=Star) <br> [**DeepSeek-OCR 2: Visual Causal Flow**](https://github.com/deepseek-ai/DeepSeek-OCR-2/blob/main/DeepSeek_OCR2_paper.pdf) <br> | DeepSeek | 2026-01-27 | [Github](https://github.com/deepseek-ai/DeepSeek-OCR-2) | - |
