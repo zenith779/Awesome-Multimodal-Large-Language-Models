@@ -84,6 +84,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Multimodal Instruction Tuning (& Latest Works)
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Introducing Gemini 3.8 Flash and 3.8 Flash Cyber**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | Blog | 2026-09-02 | - | - |
 | [**GLM-5.3-Flash: Frontier Intelligence, Flash Cost**](https://z.ai/blog/glm-5.3-flash) | Zhipu | 2026-08-26 | [Huggingface](https://huggingface.co/zai-org/GLM-5.3-Flash) | - |
 | [**DeepSeek-V4-Flash-Vision-Exp**](https://api-docs.deepseek.com/news/news260821/) | DeepSeek | 2026-08-21 | - | - |
 | [**Qwen3.8-Max: A New Bar for Coding and Cowork**](https://qwen.ai/blog?id=qwen3.8) | Blog | 2026-08-15 | [Huggingface](https://huggingface.co/collections/Qwen/qwen38) | [Demo](https://www.qwencloud.com/try-ai/chat?models=qwen3.8-max) |
@@ -697,6 +698,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **Beyond8Bits** | [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/pdf/2603.00938) | [Link](https://github.com/shreshthsaini/Beyond8Bits) | A large-scale HDR user-generated video quality benchmark, 44K videos from 6.5K sources with over 1.5M crowd ratings |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
 | **MMGenBench** | [MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective](https://arxiv.org/pdf/2411.14062) | [Link](https://github.com/lerogo/MMGenBench) | A benchmark that gauges the performance of constructing image-generation prompt given an image |
