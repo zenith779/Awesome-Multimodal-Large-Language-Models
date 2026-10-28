@@ -463,6 +463,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## LLM-Aided Visual Reasoning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Reasoning with Image Generation**](https://arxiv.org/pdf/2609.16409) | arXiv | 2026-09-14 | - | - |
 | ![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star) <br> [**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**](https://arxiv.org/pdf/2506.10821) <br> | arXiv | 2025-06-12 | [Github](https://github.com/yhy-2000/VideoDeepResearch) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/LaVi-Lab/Visual-Table.svg?style=social&label=Star) <br> [**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**](https://arxiv.org/pdf/2403.18252.pdf) <br> | arXiv | 2024-03-27 | [Github](https://github.com/LaVi-Lab/Visual-Table) | - |
 | ![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star) <br> [**V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs**](https://arxiv.org/pdf/2312.14135.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/penghao-wu/vstar) | Local Demo |
@@ -701,6 +702,7 @@ CVPR 2025, [Paper](https://arxiv.org/pdf/2405.21075.pdf), [Project](https://vide
 ## Benchmarks for Evaluation
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
+| **MultiHaystack** | [MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://arxiv.org/pdf/2603.05697) | [Link](https://github.com/Danielxu0208/MultiHaystack) | A multimodal retrieval and question-answering benchmark with 747 evidence-grounded questions over 46K+ images, videos, and documents |
 | **Beyond8Bits** | [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/pdf/2603.00938) | [Link](https://github.com/shreshthsaini/Beyond8Bits) | A large-scale HDR user-generated video quality benchmark, 44K videos from 6.5K sources with over 1.5M crowd ratings |
 | **Inst-IT Bench** | [Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/pdf/2412.03565) | [Link](https://github.com/inst-it/inst-it) | A benchmark to evaluate fine-grained instance-level understanding in images and videos |
 | **M<sup>3</sup>CoT** | [M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://arxiv.org/pdf/2405.16473) | [Link](https://github.com/LightChen233/M3CoT) | A multi-domain, multi-step benchmark for multimodal CoT |
